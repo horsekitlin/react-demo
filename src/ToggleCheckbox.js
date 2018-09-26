@@ -1,5 +1,5 @@
-import React, {Fragment} from 'react';
-import styled, { keyframes } from 'styled-components';
+import React from 'react';
+import styled from 'styled-components';
 import { textGrey, themeBlue, white } from './color';
 
 const Checkbox = styled.div`
